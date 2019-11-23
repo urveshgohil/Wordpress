@@ -24,9 +24,9 @@
     Design and Modify the readymade theme.
 
 ### Custom Theme Integration
-    First off all dowanlod the the latest version of the wordpress for “https://wordpress.org/”.
-Or
-    You can create custom blank themes from “http://underscores.me/ ”.
+    First off all dowanlod the the latest version of the wordpress for “[a link](https://wordpress.org/)”.
+    Or
+    You can create custom blank themes from “[a link](http://underscores.me/)”.
 
     1. Starts your Wamp or Xamp Server.
     2. Go to phpmyadmin
