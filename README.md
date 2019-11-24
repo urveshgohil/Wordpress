@@ -2,7 +2,8 @@
     Wordpress 5.3
 
 ### What is WORDPRESS?
-    WordPress is a content management system (CMS) based on PHP and MySQL that is usually used with the MySQL or MariaDB database servers but can also use the SQLite database engine.
+    WordPress
+     is a content management system (CMS) based on PHP and MySQL that is usually used with the MySQL or MariaDB database servers but can also use the SQLite database engine.
     WordPress was released on May 27, 2003, by its founders, Matt Mullenweg and Mike Little, as a fork of b2/cafelog. The software is released under the GPLv2 (or later) license.
 
 ### Converting PSD TO WORDPRESS.
@@ -18,9 +19,9 @@
     XAMP SERVER
     MAMP SERVER
 
-### There is two ways to convert PSD TO WORDPRESS.
-    Custom Theme Design.
-    Design and Modify the readymade theme.
+### Two ways to Convert PSD TO WORDPRESS.
+    1. Custom Theme Design.
+    2. Design and Modify the Readymade theme.
 
 ### Custom Theme Integration
 Dowanlod the the latest version of the wordpress from “https://wordpress.org/”.
