@@ -52,10 +52,9 @@ Create custom blank themes from “http://underscores.me/”.
     And Save The Menu.
 
 ### Call  Navigation In PHP File
-Open the Header.php File and Write the below code for called the navigation.
+    Open the Header.php File and Write the below code for called the navigation.
     <?php wp_nav_menu( array( 'theme_location' => 'primary', 'menu_id' => 'main' ) ); ?>
-
-A ‘Menu_id’ =  Navigation Name which is Provided in Admin Panel.
+    A ‘Menu_id’ =  Navigation Name which is Provided in Admin Panel.
 
 ### Call CSS , JS  and Images.
     <link href="<?php bloginfo('template_directory'); ?> /css/animations.css" type="text/css" rel="stylesheet" />
