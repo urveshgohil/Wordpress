@@ -1,18 +1,17 @@
 # Wordpress
     Wordpress 5.3
 
-## CONVERT PSD TO WORDPRESS
-
 ### What is WORDPRESS?
-Wordpress is an open source content management system which allows you to create websites without knowledge of programming.
+    WordPress is a content management system (CMS) based on PHP and MySQL that is usually used with the MySQL or MariaDB database servers but can also use the SQLite database engine.
+    WordPress was released on May 27, 2003, by its founders, Matt Mullenweg and Mike Little, as a fork of b2/cafelog. The software is released under the GPLv2 (or later) license.
 
-### What is reason for Converting PSD TO WORDPRESS?
-    1. Easy to Use
-    2. Cost Effective
-    3. SEO Friendly
-    4. Social Media
-    5. Plugin Integration
-    6. Not Time Consuming.
+### Converting PSD TO WORDPRESS.
+    Not Time Consuming.
+    Cost Effective.
+    Easy to Use.
+    Plugin Integration.
+    Social Media.
+    SEO Friendly.
 
 ### Software Requirements
     WAMP SERVER
